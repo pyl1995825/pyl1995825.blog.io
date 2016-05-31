@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://pengyulin.com/"/>
   <updated>2016-05-31T11:17:35.139Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://pengyulin.com/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/05/31/hello-world/"/>
-    <id>http://yoursite.com/2016/05/31/hello-world/</id>
+    <link href="http://pengyulin.com/2016/05/31/hello-world/"/>
+    <id>http://pengyulin.com/2016/05/31/hello-world/</id>
     <published>2016-05-31T11:17:35.139Z</published>
     <updated>2016-05-31T11:17:35.139Z</updated>
     
